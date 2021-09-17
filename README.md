@@ -26,5 +26,5 @@ We will use the MovieLens dataset (http://grouplens.org/datasets/movielens/)
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
-* GitHub: [xuan dang](https://github.com/xuandt1289)
-* LinkedIn: [xuan dang](https://www.linkedin.com/in/xuandt/)
+* GitHub: [xuandt89](https://github.com/xuandt1289)
+* LinkedIn: [xuandt89](https://www.linkedin.com/in/xuandt/)
